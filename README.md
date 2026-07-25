@@ -5,7 +5,7 @@ performance engineering, and reliable software.
 
 ## Selected engineering work
 
-- [DocuCommit](https://github.com/dangjacob101/DocuCommit) - semantic version
+- [DocuCommit](https://github.com/dangjacob101/DocuCommit) - Git-style version
   control for documents, with branching, revision history, visual diffs, and
   merge workflows. I contributed backend APIs, diff and merge behavior, and
   commit-history improvements.
