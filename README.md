@@ -6,21 +6,10 @@ engineering.
 
 ## Selected work
 
-- [DocuCommit](https://github.com/dangjacob101/DocuCommit) - Git-style version
-  control for documents, with branching, revision history, visual diffs, and
-  merge workflows. I contributed backend APIs, diff and merge behavior, and
-  commit-history improvements.
-- [TelemetryOps](https://github.com/derekk024/TelemetryOps) - a C++20
-  telemetry pipeline with ingestion, rolling metrics, alerting, health checks,
-  SQLite persistence, and load testing.
-- [Reinforcement Learning for BTC/GLD Volatility Hedging](https://github.com/derekk024/reinforcement-learning-volatility-hedging)
-  - code companion to an
-  [SSRN paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5399564)
-  studying policy-gradient allocation, risk-aware rewards, and walk-forward
-  evaluation.
-- [NFL Blocking Analytics](https://github.com/derekk024/nfl-blocking-analytics)
-  - collaborative sports-analytics research using player-tracking features and
-  interpretable decision trees.
+- [DocuCommit](https://github.com/dangjacob101/DocuCommit) - Git-style version control for documents.
+- [TelemetryOps](https://github.com/derekk024/TelemetryOps) - C++ telemetry ingestion and monitoring.
+- [Reinforcement Learning for BTC/GLD Volatility Hedging](https://github.com/derekk024/reinforcement-learning-volatility-hedging) - Bitcoin and gold hedging with reinforcement learning. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5399564)
+- [NFL Blocking Analytics](https://github.com/derekk024/nfl-blocking-analytics) - Player-tracking analysis of receiver blocking.
 
 ## Technologies
 
